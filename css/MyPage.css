@@ -1,0 +1,28 @@
+.Header{
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    text-decoration-line: underline;
+}
+
+.normal{
+    text-align: center;
+    font-size: medium;
+    background-color: rgb(228, 219, 219);
+    height: 40px;
+}
+body{
+    border: 10px solid black;
+    border-spacing: 10px;
+    background-color: aliceblue;
+    padding-left: 25px;
+    padding-bottom: 40px;
+    padding-top: 15px;
+}
+
+.tops{
+    font-size: 30px;
+    font-family: 'Times New Roman', Times, serif;
+    text-underline-position: below;
+    font-weight: 150;
+}
